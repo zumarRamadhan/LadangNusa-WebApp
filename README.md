@@ -175,7 +175,20 @@ Menjadi platform pertanian digital berbasis AI yang membantu petani Indonesia me
 
 ## 👨‍💻 Tim Pengembang
 
-LadangNusa dikembangkan sebagai platform inovasi pertanian digital untuk mendukung transformasi sektor pertanian Indonesia melalui pemanfaatan teknologi Artificial Intelligence dan Data Analytics.
+LadangNusa dikembangkan oleh mahasiswa Universitas Semarang sebagai bagian dari pengembangan solusi digital berbasis Artificial Intelligence (AI) dan Decision Support System (DSS) untuk mendukung transformasi sektor pertanian Indonesia.
+
+### Tim Pengembang
+
+* **Firdan Azhari**
+* **Javier Athaya**
+* **Zumar Ramadhan**
+
+🎓 Universitas Semarang
+
+---
+
+Kami percaya bahwa pemanfaatan teknologi, data, dan kecerdasan buatan dapat membantu petani Indonesia mengambil keputusan yang lebih tepat, meningkatkan produktivitas, serta menciptakan pertanian yang lebih berkelanjutan di masa depan.
+
 
 ---
 
