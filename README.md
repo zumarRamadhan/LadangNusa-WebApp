@@ -1,36 +1,182 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌱 LadangNusa
 
-## Getting Started
+LadangNusa adalah platform berbasis Artificial Intelligence (AI) dan Decision Support System (DSS) yang dirancang untuk membantu petani Indonesia dalam mengambil keputusan pertanian secara lebih cerdas, terukur, dan menguntungkan.
 
-First, run the development server:
+Melalui analisis data lahan, kondisi musim, dan berbagai faktor pertanian lainnya, LadangNusa memberikan rekomendasi tanaman, prediksi hasil panen, serta estimasi keuntungan yang dapat membantu petani meningkatkan produktivitas dan mengurangi risiko gagal tanam.
+
+---
+
+## 🚀 Latar Belakang
+
+Banyak petani masih mengambil keputusan tanam berdasarkan pengalaman atau perkiraan tanpa dukungan data yang memadai. Hal ini dapat menyebabkan:
+
+* Pemilihan tanaman yang kurang sesuai dengan kondisi lahan.
+* Risiko gagal panen yang lebih tinggi.
+* Ketidakpastian hasil panen dan keuntungan.
+* Sulitnya melakukan perencanaan usaha tani secara optimal.
+
+LadangNusa hadir sebagai solusi digital untuk membantu petani memanfaatkan teknologi AI dalam proses pengambilan keputusan.
+
+---
+
+## ✨ Fitur Utama
+
+### 🌾 Rekomendasi Tanaman
+
+Memberikan rekomendasi tanaman terbaik berdasarkan kondisi lahan dan musim.
+
+### 📈 Prediksi Hasil Panen
+
+Menghasilkan estimasi hasil panen sebelum proses budidaya dimulai.
+
+### 💰 Analisis Keuntungan
+
+Menghitung potensi keuntungan berdasarkan biaya produksi dan hasil panen yang diprediksi.
+
+### 🤖 AI Decision Support System (DSS)
+
+Membantu petani mengambil keputusan tanam berbasis data dan kecerdasan buatan.
+
+### 📊 Dashboard Monitoring
+
+Menyediakan visualisasi data pertanian yang mudah dipahami untuk mendukung pengambilan keputusan.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* Next.js 16
+* React 19
+* TypeScript
+* Tailwind CSS 4
+* Framer Motion
+* Lucide React
+* React Icons
+
+### Backend (Planned)
+
+* Laravel
+* MySQL
+* REST API
+
+### AI Integration (Planned)
+
+* Gemini API
+* OpenAI API
+* Machine Learning Recommendation Engine
+
+---
+
+## 📂 Struktur Project
+
+```bash
+src/
+├── app/
+├── components/
+│   ├── Navbar.tsx
+│   ├── Footer.tsx
+│   └── ScrollToTop.tsx
+│
+├── sections/
+│   ├── Hero.tsx
+│   ├── RunningText.tsx
+│   ├── AboutUs.tsx
+│   ├── Features.tsx
+│   ├── HowItWorks.tsx
+│   ├── AIShowcase.tsx
+│   ├── Impact.tsx
+│   ├── WhyUs.tsx
+│   ├── Pricing.tsx
+│   ├── Solution.tsx
+│   ├── Testimonials.tsx
+│   ├── FAQ.tsx
+│   └── CTA.tsx
+│
+└── assets/
+```
+
+---
+
+## ⚙️ Instalasi
+
+Clone repository:
+
+```bash
+git clone https://github.com/username/ladangnusa.git
+```
+
+Masuk ke folder project:
+
+```bash
+cd ladangnusa
+```
+
+Install dependency:
+
+```bash
+npm install
+```
+
+Jalankan development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buka browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧪 Build Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Menjalankan hasil build:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run start
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💳 Model Bisnis
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+LadangNusa menggunakan model Software as a Service (SaaS):
+
+### Free Trial
+
+* Gratis 14 Hari
+* Tanpa kartu kredit
+
+### Paket Bulanan
+
+* Rp49.000 / bulan
+
+### Paket Tahunan
+
+* Rp490.000 / tahun
+* Lebih hemat dibanding paket bulanan
+
+---
+
+## 🎯 Visi
+
+Menjadi platform pertanian digital berbasis AI yang membantu petani Indonesia meningkatkan produktivitas, efisiensi, dan keuntungan secara berkelanjutan.
+
+---
+
+## 👨‍💻 Tim Pengembang
+
+LadangNusa dikembangkan sebagai platform inovasi pertanian digital untuk mendukung transformasi sektor pertanian Indonesia melalui pemanfaatan teknologi Artificial Intelligence dan Data Analytics.
+
+---
+
+© 2025 LadangNusa. All Rights Reserved.
